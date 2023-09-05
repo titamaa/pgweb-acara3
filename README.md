@@ -1,4 +1,4 @@
 # pgweb-acara3
 Belajar javascript
 
-Link:[Link] (https://titamaa.github.io/pgweb-acara3/)
+Link: https://titamaa.github.io/pgweb-acara3/
